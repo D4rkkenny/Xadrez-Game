@@ -1,0 +1,14 @@
+C:\Users\brunoms\Desktop\Estudo\Xadrez\Xadrez\bin\Debug\net7.0\Xadrez.exe
+C:\Users\brunoms\Desktop\Estudo\Xadrez\Xadrez\bin\Debug\net7.0\Xadrez.deps.json
+C:\Users\brunoms\Desktop\Estudo\Xadrez\Xadrez\bin\Debug\net7.0\Xadrez.runtimeconfig.json
+C:\Users\brunoms\Desktop\Estudo\Xadrez\Xadrez\bin\Debug\net7.0\Xadrez.dll
+C:\Users\brunoms\Desktop\Estudo\Xadrez\Xadrez\bin\Debug\net7.0\Xadrez.pdb
+C:\Users\brunoms\Desktop\Estudo\Xadrez\Xadrez\obj\Debug\net7.0\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunoms\Desktop\Estudo\Xadrez\Xadrez\obj\Debug\net7.0\Xadrez.AssemblyInfoInputs.cache
+C:\Users\brunoms\Desktop\Estudo\Xadrez\Xadrez\obj\Debug\net7.0\Xadrez.AssemblyInfo.cs
+C:\Users\brunoms\Desktop\Estudo\Xadrez\Xadrez\obj\Debug\net7.0\Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\brunoms\Desktop\Estudo\Xadrez\Xadrez\obj\Debug\net7.0\Xadrez.dll
+C:\Users\brunoms\Desktop\Estudo\Xadrez\Xadrez\obj\Debug\net7.0\refint\Xadrez.dll
+C:\Users\brunoms\Desktop\Estudo\Xadrez\Xadrez\obj\Debug\net7.0\Xadrez.pdb
+C:\Users\brunoms\Desktop\Estudo\Xadrez\Xadrez\obj\Debug\net7.0\Xadrez.genruntimeconfig.cache
+C:\Users\brunoms\Desktop\Estudo\Xadrez\Xadrez\obj\Debug\net7.0\ref\Xadrez.dll
